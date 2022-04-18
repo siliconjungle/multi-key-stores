@@ -5,6 +5,7 @@ Provides two options:
 - Multiple keys for the same data (as seen in multi-key-store) (You can think of this an an OR op)
 - Multiple keys must be used together to access the data (You can think of this as an AND op).
 
+## License
 MIT License
 
 Copyright (c) 2022 James Addison
